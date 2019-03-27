@@ -11,7 +11,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-	"mytest": "jest --silent",
+    "mytest": "jest --silent",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -24,6 +24,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "babel-core": "^7.0.0-bridge.0"
+    "babel-core": "^7.0.0-bridge.0",
+    "react-test-renderer": "^16.8.5"
   }
 }
